@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Revit Template Application</Name>
+    <Assembly>RevitTemplate.dll</Assembly>
+    <AddInId>
+      5137DB70-7F51-4FC5-8F91-EDCA8012D025
+    </AddInId>
+    <FullClassName>RevitTemplate.App</FullClassName>
+    <VendorId>Arcadis</VendorId>
+    <VendorDescription>arcadis.digital</VendorDescription>
+  </AddIn>
+</RevitAddIns>
